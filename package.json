@@ -1,0 +1,16 @@
+{
+  "name": "haffman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "haffman.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^26.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
